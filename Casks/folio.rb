@@ -1,6 +1,6 @@
 cask "folio" do
-  version "0.4.0"
-  sha256 "346eb5a3fc2992513e141b0881762c2f85221b35d1be3a6223f1e7463e700dfd"
+  version "0.4.1"
+  sha256 "5e01fca25218abb30ec94f04a915edfa01c3c8754cc62ecf806f9806e03db20d"
 
   url "https://github.com/lulu-loopp/folio-terminal/releases/download/v#{version}-preview/Folio-#{version}-macos-arm64.dmg"
   name "Folio"
